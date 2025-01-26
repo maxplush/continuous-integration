@@ -1,4 +1,4 @@
-![Build Status](https://github.com/maxplush/continuous-integration/actions/workflows/tests.yml/badge.svg)
+# Continuous Integration ![https://github.com/maxplush/continuous-integration/actions?query=workflow%3Atests](https://github.com/maxplush/continuous-integration/workflows/tests/badge.svg)
 
 *This is the first homework assignment for Claremont McKenna's [CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course and [CSCI143: Big Data](https://github.com/mikeizbicki/cmc-csci143) course.*
 
